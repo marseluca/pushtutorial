@@ -2,7 +2,7 @@
 <ul><li>Local folder name: <i>my_local_folder</i></li><li>Folder to push: <i>my_local_folder/my_repo</i></li><li>Remote repo name: <i>my_repo</i></li></ul><br>
 
 
-<code>$ cd my_local_repo<br>
+<code>$ cd my_local_folder<br>
 $ git init<br>
 $ git remote add my_repo http://github.com/marseluca/my_repo<br>
 $ git push -u my_repo main<br>
